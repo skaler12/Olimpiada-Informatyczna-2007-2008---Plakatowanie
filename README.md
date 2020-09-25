@@ -3,6 +3,8 @@
 
 https://oi.edu.pl/l/15oi_ksiazeczka/
 
+![logo_oi](https://user-images.githubusercontent.com/57706581/94317965-bc1e6d80-ff87-11ea-9163-e1ebc261dbae.png)
+
 ## Wymagania projektu: 
 Wszystkie budynki we wschodniej części Bajtogrodu zostały zbudowane zgodnie z zasadami
 starego bajtobudownictwa: stoją one jeden przy drugim (nie ma między nimi przerw). Razem
